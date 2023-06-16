@@ -1,4 +1,4 @@
-module github.com/auth0/auth0-cli
+module github.com/con40/auth0-cli
 
 go 1.20
 
